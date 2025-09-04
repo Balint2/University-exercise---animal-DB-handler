@@ -1,3 +1,4 @@
+  <h1>Pet Database Console Application</h1>
   <p>
     This is a console-based database management program designed to store information about pets,
     the foods they were given, and the feeding events. The application provides basic CRUD operations,
