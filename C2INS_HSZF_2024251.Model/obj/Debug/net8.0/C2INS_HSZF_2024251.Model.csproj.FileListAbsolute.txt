@@ -1,0 +1,11 @@
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Model\bin\Debug\net8.0\C2INS_HSZF_2024251.Model.deps.json
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Model\bin\Debug\net8.0\C2INS_HSZF_2024251.Model.dll
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Model\bin\Debug\net8.0\C2INS_HSZF_2024251.Model.pdb
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Model\obj\Debug\net8.0\C2INS_HSZF_2024251.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Model\obj\Debug\net8.0\C2INS_HSZF_2024251.Model.AssemblyInfoInputs.cache
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Model\obj\Debug\net8.0\C2INS_HSZF_2024251.Model.AssemblyInfo.cs
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Model\obj\Debug\net8.0\C2INS_HSZF_2024251.Model.csproj.CoreCompileInputs.cache
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Model\obj\Debug\net8.0\C2INS_HSZF_2024251.Model.dll
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Model\obj\Debug\net8.0\refint\C2INS_HSZF_2024251.Model.dll
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Model\obj\Debug\net8.0\C2INS_HSZF_2024251.Model.pdb
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Model\obj\Debug\net8.0\ref\C2INS_HSZF_2024251.Model.dll

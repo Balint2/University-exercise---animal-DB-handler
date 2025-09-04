@@ -1,0 +1,12 @@
+[
+    { "Name": "Pizza", "Quantity": 5 },
+    { "Name": "Spaghetti", "Quantity": 8 },
+    { "Name": "Dog food", "Quantity": 6 },
+    { "Name": "Cat food", "Quantity": 3 },
+    { "Name": "Cookie", "Quantity": 10 },
+    { "Name": "Dog cake", "Quantity": 4 },
+    { "Name": "Dog pizza", "Quantity": 4 },
+    { "Name": "Cat pizza", "Quantity": 5 },
+    { "Name": "Wheat", "Quantity": 7 },
+    { "Name": "Tomato", "Quantity": 9 }
+  ]

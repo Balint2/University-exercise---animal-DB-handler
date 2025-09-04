@@ -1,0 +1,15 @@
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\bin\Debug\net8.0\C2INS_HSZF_2024251.Persistence.MsSq.deps.json
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\bin\Debug\net8.0\C2INS_HSZF_2024251.Persistence.MsSq.dll
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\bin\Debug\net8.0\C2INS_HSZF_2024251.Persistence.MsSq.pdb
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\bin\Debug\net8.0\C2INS_HSZF_2024251.Model.dll
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\bin\Debug\net8.0\C2INS_HSZF_2024251.Model.pdb
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\obj\Debug\net8.0\C2INS_HSZF_2024251.Persistence.MsSq.csproj.AssemblyReference.cache
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\obj\Debug\net8.0\C2INS_HSZF_2024251.Persistence.MsSq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\obj\Debug\net8.0\C2INS_HSZF_2024251.Persistence.MsSq.AssemblyInfoInputs.cache
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\obj\Debug\net8.0\C2INS_HSZF_2024251.Persistence.MsSq.AssemblyInfo.cs
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\obj\Debug\net8.0\C2INS_HSZF_2024251.Persistence.MsSq.csproj.CoreCompileInputs.cache
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\obj\Debug\net8.0\C2INS_HS.F093BBB0.Up2Date
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\obj\Debug\net8.0\C2INS_HSZF_2024251.Persistence.MsSq.dll
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\obj\Debug\net8.0\refint\C2INS_HSZF_2024251.Persistence.MsSq.dll
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\obj\Debug\net8.0\C2INS_HSZF_2024251.Persistence.MsSq.pdb
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\C2INS_HSZF_2024251.Persistence.MsSq\obj\Debug\net8.0\ref\C2INS_HSZF_2024251.Persistence.MsSq.dll

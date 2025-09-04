@@ -1,0 +1,15 @@
+Animal data: 
+Id: 2	Name: Max	Gender: male	Age: 3	Species: Cat
+
+Related foods: 
+Id: 5	Name: Cookie	Quantity: 10
+
+Related activities: 
+Id: 41	Type: Feeding	Date: 2024. 10. 05. 8:00:00	Comment: Initial feeding
+---Animal: (Id: 2	Name: Max	Gender: male	Age: 3	Species: Cat)
+---Food: (Id: 5	Name: Cookie	Quantity: 10)
+
+Id: 100	Type: Wrap-up	Date: 2024. 10. 10. 17:00:00	Comment: Evening wrap-up
+---Animal: (Id: 2	Name: Max	Gender: male	Age: 3	Species: Cat)
+
+

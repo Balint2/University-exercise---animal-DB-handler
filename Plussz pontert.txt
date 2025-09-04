@@ -1,0 +1,10 @@
+Plusz pont céljából csináltam még néhány extra funkciót, amit nem kért a feladat:
+		-Egy reset funkciót, amivel az egész adatbázist visszaállítja a json-ben lévő tartalomra.
+		-Egy olyat, hogy ha activity-t akarok hozzáadni, akkor jelenjen meg egy menü,
+	amiben az animal-ok és a keeper-ek vannak, és onnan ki tudom választani, hogy melyik animal,
+	és melyik keeper tartozik hozzá, így felhasználó szempontjából barátibb, mintha az ID-t kellene beírni.
+	Ugyanez bármilyen törlésnél és módosításnál, illetve riportnál.
+		-Egy megerősítés kérdést illetve egy megerősítő üzenetet,
+	hogy biztosan végre akarja e hajtani ezt a műveletet a felhasználó, minden helyen,
+	ahol bármilyen adatbázis módosítás történne. Ezzel elkerülve a véletlen műveleteket,
+	illetve jelzem a felhasználónak, hogy sikerrel járt.
