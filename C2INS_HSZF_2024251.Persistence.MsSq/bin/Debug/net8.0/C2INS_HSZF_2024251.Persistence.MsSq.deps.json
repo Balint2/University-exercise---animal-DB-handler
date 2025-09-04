@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C2INS_HSZF_2024251.Persistence.MsSq/1.0.0": {
+        "dependencies": {
+          "C2INS_HSZF_2024251.Model": "1.0.0"
+        },
+        "runtime": {
+          "C2INS_HSZF_2024251.Persistence.MsSq.dll": {}
+        }
+      },
+      "C2INS_HSZF_2024251.Model/1.0.0": {
+        "runtime": {
+          "C2INS_HSZF_2024251.Model.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C2INS_HSZF_2024251.Persistence.MsSq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C2INS_HSZF_2024251.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

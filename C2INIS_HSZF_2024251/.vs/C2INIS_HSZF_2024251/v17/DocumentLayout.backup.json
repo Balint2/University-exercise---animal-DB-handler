@@ -1,0 +1,671 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7CB860-B82C-43B0-B572-7A6503C85E1F}|..\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2ins_hszf_2024251.persistence.mssq\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7CB860-B82C-43B0-B572-7A6503C85E1F}|..\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2ins_hszf_2024251.persistence.mssq\\entitydataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7CB860-B82C-43B0-B572-7A6503C85E1F}|..\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2ins_hszf_2024251.persistence.mssq\\c2inis_hszf_2024251.persistence.mssql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7CB860-B82C-43B0-B572-7A6503C85E1F}|..\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2ins_hszf_2024251.persistence.mssq\\animaldataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7CB860-B82C-43B0-B572-7A6503C85E1F}|..\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2ins_hszf_2024251.persistence.mssq\\activitydataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8FF7C9-CEFA-4CE5-A892-6FD366C623F6}|C2INIS_HSZF_2024251.Console.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\menuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8FF7C9-CEFA-4CE5-A892-6FD366C623F6}|C2INIS_HSZF_2024251.Console.csproj|solutionrelative:menuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8FF7C9-CEFA-4CE5-A892-6FD366C623F6}|C2INIS_HSZF_2024251.Console.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8FF7C9-CEFA-4CE5-A892-6FD366C623F6}|C2INIS_HSZF_2024251.Console.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7CB860-B82C-43B0-B572-7A6503C85E1F}|..\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2ins_hszf_2024251.persistence.mssq\\fooddataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFD1E55-D706-4C8D-94C7-E09B947FBE6C}|..\\C2INS_HSZF_2024251.Model\\C2INIS_HSZF_2024251.Model.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2ins_hszf_2024251.model\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C590F73-C2DA-496E-B4AE-DA217759C5E4}|..\\C2INIS_HSZF_2024251.Application\\C2INIS_HSZF_2024251.Application.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2inis_hszf_2024251.application\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C590F73-C2DA-496E-B4AE-DA217759C5E4}|..\\C2INIS_HSZF_2024251.Application\\C2INIS_HSZF_2024251.Application.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2inis_hszf_2024251.application\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8FF7C9-CEFA-4CE5-A892-6FD366C623F6}|C2INIS_HSZF_2024251.Console.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\listingmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8FF7C9-CEFA-4CE5-A892-6FD366C623F6}|C2INIS_HSZF_2024251.Console.csproj|solutionrelative:listingmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7CB860-B82C-43B0-B572-7A6503C85E1F}|..\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2ins_hszf_2024251.persistence.mssq\\maindataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C590F73-C2DA-496E-B4AE-DA217759C5E4}|..\\C2INIS_HSZF_2024251.Application\\C2INIS_HSZF_2024251.Application.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2inis_hszf_2024251.application\\iactivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C590F73-C2DA-496E-B4AE-DA217759C5E4}|..\\C2INIS_HSZF_2024251.Application\\C2INIS_HSZF_2024251.Application.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2inis_hszf_2024251.application\\ifoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E5DB0E-8CDF-497C-A1A7-003CF23A570A}|..\\C2INIS_HSZF_2024251.Test\\C2INIS_HSZF_2024251.Test.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2inis_hszf_2024251.test\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C590F73-C2DA-496E-B4AE-DA217759C5E4}|..\\C2INIS_HSZF_2024251.Application\\C2INIS_HSZF_2024251.Application.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2inis_hszf_2024251.application\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C590F73-C2DA-496E-B4AE-DA217759C5E4}|..\\C2INIS_HSZF_2024251.Application\\C2INIS_HSZF_2024251.Application.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2inis_hszf_2024251.application\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7CB860-B82C-43B0-B572-7A6503C85E1F}|..\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2ins_hszf_2024251.persistence.mssq\\iactivitydataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7CB860-B82C-43B0-B572-7A6503C85E1F}|..\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2ins_hszf_2024251.persistence.mssq\\ifooddataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8FF7C9-CEFA-4CE5-A892-6FD366C623F6}|C2INIS_HSZF_2024251.Console.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2inis_hszf_2024251.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE8FF7C9-CEFA-4CE5-A892-6FD366C623F6}|C2INIS_HSZF_2024251.Console.csproj|solutionrelative:c2inis_hszf_2024251.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8FF7C9-CEFA-4CE5-A892-6FD366C623F6}|C2INIS_HSZF_2024251.Console.csproj|c:\\users\\istvan\\desktop\\iskolai cuccok\\egyetem\\semester 3\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\c2inis_hszf_2024251\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8FF7C9-CEFA-4CE5-A892-6FD366C623F6}|C2INIS_HSZF_2024251.Console.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Test\\C2INIS_HSZF_2024251.Test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Test\\TestClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\AnimalService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\ActivityService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\FoodDataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\ActivityDataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\AnimalDataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IMainDataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\EntityDataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\MainDataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IMainService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IActivityDataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IAnimalDataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IFoodDataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\FoodService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IActivityService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IAnimalService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IFoodService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\MainService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "C2INIS_HSZF_2024251.Persistence.MsSql.csproj",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj",
+              "RelativeDocumentMoniker": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj",
+              "RelativeToolTip": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T09:06:01.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:59:57.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Model\\Animal.cs",
+              "RelativeDocumentMoniker": "..\\C2INS_HSZF_2024251.Model\\Animal.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Model\\Animal.cs",
+              "RelativeToolTip": "..\\C2INS_HSZF_2024251.Model\\Animal.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:52:08.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\MenuHandler.cs",
+              "RelativeDocumentMoniker": "MenuHandler.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\MenuHandler.cs",
+              "RelativeToolTip": "MenuHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:55:01.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntityDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\EntityDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\EntityDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\EntityDataProvider.cs",
+              "RelativeToolTip": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\EntityDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:52:48.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimalDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\AnimalDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\AnimalDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\AnimalDataProvider.cs",
+              "RelativeToolTip": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\AnimalDataProvider.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:52:49.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\AppDbContext.cs",
+              "RelativeToolTip": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:52:56.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\AnimalService.cs",
+              "RelativeDocumentMoniker": "..\\C2INIS_HSZF_2024251.Application\\AnimalService.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\AnimalService.cs",
+              "RelativeToolTip": "..\\C2INIS_HSZF_2024251.Application\\AnimalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:52:02.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActivityDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\ActivityDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\ActivityDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\ActivityDataProvider.cs",
+              "RelativeToolTip": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\ActivityDataProvider.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:52:50.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainService.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\MainService.cs",
+              "RelativeDocumentMoniker": "..\\C2INIS_HSZF_2024251.Application\\MainService.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\MainService.cs",
+              "RelativeToolTip": "..\\C2INIS_HSZF_2024251.Application\\MainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:14:26.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestClass.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Test\\TestClass.cs",
+              "RelativeDocumentMoniker": "..\\C2INIS_HSZF_2024251.Test\\TestClass.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Test\\TestClass.cs",
+              "RelativeToolTip": "..\\C2INIS_HSZF_2024251.Test\\TestClass.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:15:25.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFoodService.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IFoodService.cs",
+              "RelativeDocumentMoniker": "..\\C2INIS_HSZF_2024251.Application\\IFoodService.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IFoodService.cs",
+              "RelativeToolTip": "..\\C2INIS_HSZF_2024251.Application\\IFoodService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:19:01.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\FoodDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\FoodDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\FoodDataProvider.cs",
+              "RelativeToolTip": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\FoodDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:52:52.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListingMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\ListingMenu.cs",
+              "RelativeDocumentMoniker": "ListingMenu.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\ListingMenu.cs",
+              "RelativeToolTip": "ListingMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:55:00.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FoodService.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\FoodService.cs",
+              "RelativeDocumentMoniker": "..\\C2INIS_HSZF_2024251.Application\\FoodService.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\FoodService.cs",
+              "RelativeToolTip": "..\\C2INIS_HSZF_2024251.Application\\FoodService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:19:07.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IActivityService.cs",
+              "RelativeDocumentMoniker": "..\\C2INIS_HSZF_2024251.Application\\IActivityService.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IActivityService.cs",
+              "RelativeToolTip": "..\\C2INIS_HSZF_2024251.Application\\IActivityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:19:02.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\MainDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\MainDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\MainDataProvider.cs",
+              "RelativeToolTip": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\MainDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:19:19.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\ActivityService.cs",
+              "RelativeDocumentMoniker": "..\\C2INIS_HSZF_2024251.Application\\ActivityService.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\ActivityService.cs",
+              "RelativeToolTip": "..\\C2INIS_HSZF_2024251.Application\\ActivityService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:41:32.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IFoodDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IFoodDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\IFoodDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IFoodDataProvider.cs",
+              "RelativeToolTip": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\IFoodDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:41:22.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IActivityDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IActivityDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\IActivityDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IActivityDataProvider.cs",
+              "RelativeToolTip": "..\\C2INS_HSZF_2024251.Persistence.MsSq\\IActivityDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:52:53.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "C2INIS_HSZF_2024251.Persistence.MsSql.csproj",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\C2INIS_HSZF_2024251.Persistence.MsSql.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T06:55:02.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TestClass.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Test\\TestClass.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Test\\TestClass.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Test\\TestClass.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Test\\TestClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:46:34.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "C2INIS_HSZF_2024251.Console.csproj",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Console.csproj",
+              "RelativeDocumentMoniker": "C2INIS_HSZF_2024251.Console.csproj",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Console.csproj",
+              "RelativeToolTip": "C2INIS_HSZF_2024251.Console.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T06:54:39.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "C2INIS_HSZF_2024251.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Test\\C2INIS_HSZF_2024251.Test.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Test\\C2INIS_HSZF_2024251.Test.csproj",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Test\\C2INIS_HSZF_2024251.Test.csproj",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Test\\C2INIS_HSZF_2024251.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T06:54:54.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\AnimalService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\AnimalService.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\AnimalService.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\AnimalService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:54:58.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\ActivityService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\ActivityService.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\ActivityService.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\ActivityService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:20:45.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FoodDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\FoodDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\FoodDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\FoodDataProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\FoodDataProvider.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAhwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:51:38.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ActivityDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\ActivityDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\ActivityDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\ActivityDataProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\ActivityDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:44:56.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\AppDbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAApwB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:17:56.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AnimalDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\AnimalDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\AnimalDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\AnimalDataProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\AnimalDataProvider.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:34:33.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IMainDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IMainDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IMainDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IMainDataProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IMainDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:14:01.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EntityDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\EntityDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\EntityDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\EntityDataProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\EntityDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:18:10.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MainDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\MainDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\MainDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\MainDataProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\MainDataProvider.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwC0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:15:08.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IMainService.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IMainService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IMainService.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IMainService.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IMainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAADuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:10:44.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:18:54.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IActivityDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IActivityDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IActivityDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IActivityDataProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IActivityDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:55:16.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IAnimalDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IAnimalDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IAnimalDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IAnimalDataProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IAnimalDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:55:15.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IFoodDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IFoodDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IFoodDataProvider.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IFoodDataProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INS_HSZF_2024251.Persistence.MsSq\\IFoodDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:55:12.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FoodService.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\FoodService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\FoodService.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\FoodService.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\FoodService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:21:00.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IActivityService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IActivityService.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IActivityService.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IActivityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:20:24.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IAnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IAnimalService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IAnimalService.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IAnimalService.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IAnimalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:18:37.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IFoodService.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IFoodService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IFoodService.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IFoodService.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\IFoodService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:18:36.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MainService.cs",
+              "DocumentMoniker": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\MainService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\MainService.cs",
+              "ToolTip": "C:\\Users\\Istvan\\Desktop\\iskolai cuccok\\Egyetem\\semester 3\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\MainService.cs",
+              "RelativeToolTip": "..\\..\\..\\HSZF\\C2INIS_HSZF_2024251\\C2INIS_HSZF_2024251.Application\\MainService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:13:15.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\bin\Debug\net8.0\C2INIS_HSZF.Console.exe
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\bin\Debug\net8.0\C2INIS_HSZF.Console.deps.json
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\bin\Debug\net8.0\C2INIS_HSZF.Console.runtimeconfig.json
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\bin\Debug\net8.0\C2INIS_HSZF.Console.dll
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\bin\Debug\net8.0\C2INIS_HSZF.Console.pdb
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\obj\Debug\net8.0\C2INIS_HSZF.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\obj\Debug\net8.0\C2INIS_HSZF.Console.AssemblyInfoInputs.cache
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\obj\Debug\net8.0\C2INIS_HSZF.Console.AssemblyInfo.cs
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\obj\Debug\net8.0\C2INIS_HSZF.Console.csproj.CoreCompileInputs.cache
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\obj\Debug\net8.0\C2INIS_HSZF.Console.dll
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\obj\Debug\net8.0\refint\C2INIS_HSZF.Console.dll
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\obj\Debug\net8.0\C2INIS_HSZF.Console.pdb
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\obj\Debug\net8.0\C2INIS_HSZF.Console.genruntimeconfig.cache
+C:\Users\Istvan\Desktop\iskolai cuccok\Egyetem\semester 3\HSZF\C2INIS_HSZF_2024251\obj\Debug\net8.0\ref\C2INIS_HSZF.Console.dll

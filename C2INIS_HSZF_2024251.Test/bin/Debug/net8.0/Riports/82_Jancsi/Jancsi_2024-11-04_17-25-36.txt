@@ -1,0 +1,6 @@
+Animal data: 
+Id: 82	Name: Jancsi	Gender: male	Age: 2	Species: sas
+
+Related foods: 
+
+Related activities: 
